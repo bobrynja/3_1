@@ -1,0 +1,9 @@
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\bin\Debug\WindowsFormsApplication3_1.exe.config
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\obj\Debug\WindowsFormsApplication3_1.csprojResolveAssemblyReference.cache
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\obj\Debug\WindowsFormsApplication3_1.Form1.resources
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\obj\Debug\WindowsFormsApplication3_1.Properties.Resources.resources
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\obj\Debug\WindowsFormsApplication3_1.csproj.GenerateResource.Cache
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\bin\Debug\WindowsFormsApplication3_1.exe
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\bin\Debug\WindowsFormsApplication3_1.pdb
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\obj\Debug\WindowsFormsApplication3_1.exe
+E:\3 курс\прикладное\WindowsFormsApplication3_1\WindowsFormsApplication3_1\obj\Debug\WindowsFormsApplication3_1.pdb
