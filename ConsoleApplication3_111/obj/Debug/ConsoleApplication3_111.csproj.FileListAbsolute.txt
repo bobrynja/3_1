@@ -1,0 +1,12 @@
+E:\3 курс\прикладное\ConsoleApplication3_111\ConsoleApplication3_111\bin\Debug\ConsoleApplication3_111.exe.config
+E:\3 курс\прикладное\ConsoleApplication3_111\ConsoleApplication3_111\bin\Debug\ConsoleApplication3_111.exe
+E:\3 курс\прикладное\ConsoleApplication3_111\ConsoleApplication3_111\bin\Debug\ConsoleApplication3_111.pdb
+E:\3 курс\прикладное\ConsoleApplication3_111\ConsoleApplication3_111\obj\Debug\ConsoleApplication3_111.csprojResolveAssemblyReference.cache
+E:\3 курс\прикладное\ConsoleApplication3_111\ConsoleApplication3_111\obj\Debug\ConsoleApplication3_111.exe
+E:\3 курс\прикладное\ConsoleApplication3_111\ConsoleApplication3_111\obj\Debug\ConsoleApplication3_111.pdb
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApplication3_111\ConsoleApplication3_111\bin\Debug\ConsoleApplication3_111.exe.config
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApplication3_111\ConsoleApplication3_111\bin\Debug\ConsoleApplication3_111.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApplication3_111\ConsoleApplication3_111\bin\Debug\ConsoleApplication3_111.pdb
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApplication3_111\ConsoleApplication3_111\obj\Debug\ConsoleApplication3_111.csproj.CoreCompileInputs.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApplication3_111\ConsoleApplication3_111\obj\Debug\ConsoleApplication3_111.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\ConsoleApplication3_111\ConsoleApplication3_111\obj\Debug\ConsoleApplication3_111.pdb
